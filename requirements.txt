@@ -2,3 +2,4 @@ jupyter
 scipy
 numpy
 statsmodels
+matplotlib
