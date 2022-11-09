@@ -2,4 +2,7 @@ jupyter
 scipy
 numpy
 statsmodels
+xlrd
+openpyxl
 matplotlib
+seaborn
