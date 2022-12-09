@@ -5,4 +5,5 @@ statsmodels
 xlrd
 openpyxl
 matplotlib
+pandas
 seaborn
