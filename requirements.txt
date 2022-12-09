@@ -7,3 +7,4 @@ openpyxl
 matplotlib
 pandas
 seaborn
+pingouin
