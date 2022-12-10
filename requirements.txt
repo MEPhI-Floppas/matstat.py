@@ -8,3 +8,4 @@ matplotlib
 pandas
 seaborn
 pingouin
+scikit-learn
